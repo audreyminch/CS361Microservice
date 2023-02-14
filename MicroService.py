@@ -17,6 +17,7 @@ if __name__ == "__main__":
         for i in books_list:
             if author in i:
                 returnList.write(i)
+        returnList.close()
         
         
 
