@@ -1,4 +1,7 @@
 # CS361Microservice
+
+Communication Contract:
+
 how to REQUEST data from the microservice you implemented:
 
 To request data from the microservice you will write to the returnList.txt file with the user’s author request.
