@@ -1,0 +1,18 @@
+The Great Gatsby,F. Scott Fitzgerald,Literary Fiction|Drama
+Pride and Prejudice,Jane Austen,Literary Fiction|Romance
+To Kill a Mockingbird,Harper Lee,Literary Fiction|Drama
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction|Comedy
+One Hundred Years of Solitude,Gabriel Garcia Marquez,Literary Fiction|Magic Realism
+The Catcher in the Rye,J.D. Salinger,Literary Fiction|Coming of Age
+1984,George Orwell,Science Fiction|Dystopian
+The Divine Comedy,Dante Alighieri,Literary Fiction|Religious
+A Tale of Two Cities,Charles Dickens,Literary Fiction|Historical
+The Picture of Dorian Gray,Oscar Wilde,Literary Fiction|Gothic
+Brave New World,Aldous Huxley,Science Fiction|Dystopian
+Dracula,Bram Stoker,Literary Fiction|Horror
+The Silence of the Lambs,Thomas Harris,Mystery|Thriller
+The Lord of the Rings,J.R.R. Tolkien,Fantasy|Adventure
+The Witch of Portobello,Paulo Coelho,Literary Fiction|Magical Realism
+The Color Purple,Alice Walker,Literary Fiction|Historical
+Snow Crash,Neal Stephenson,Science Fiction|Cyberpunk
+The Lord of the Rings,Thomas Harris,Fantasy|Adventure
